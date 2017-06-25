@@ -1,0 +1,97 @@
+﻿*{
+	margin:0 auto;
+	padding:0;
+	border:0;
+	font-family:宋体；
+	font-size:12px;
+	color:#522a06;
+}
+
+body{
+	background:url(../images/bodybg.gif);
+}
+
+a:link{
+	text-decoration:none;
+	color:#522a06;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+
+.dingbukuang{
+	background:url(../images/bg1.jpg);
+	background-position: center top;
+	height:200px;
+	margin:0 auto;
+}
+.logokuang{
+	margin:0;
+	background-position:left top;
+	height:160px;
+	width:200px;
+}
+.logokuang img{
+	margin:0px;
+}
+.logokuang p{
+	float:left;
+}
+
+.daohangkuang{
+	background:url(../images/lantiao.jpg);
+	background-position: center;
+	height:50px;
+}
+.daohangneirong{
+	width:1000px;
+	height:50px;
+	background:none;
+	background-position: center;
+}
+.chaolianjie{ 
+	margin-top: 8px;
+	float:left;
+	width:700px;
+	height:50px;
+}
+.chaolianjie a{
+	margin:0px 5px 0px 5px;
+	font-weight: bolder;
+	color:#000;
+	height:40px;
+	font-size: 24px;
+
+}
+.chaolianjie a:hover{
+	color:red;
+	text-decoration:none;
+}
+
+.sousuoneirong{
+	float:left;
+	height:50px;
+	width:300px;
+
+}
+.sousuobaikuang{
+	float:right;
+	height:40px;
+	width:120px;
+	
+}
+.baikuang{
+	height:20px;
+	width:120px;
+	margin: 10px 0px 10px 0px;
+
+
+}
+.sousuoanniu{
+	float:right;
+	height:40px;
+	width:40px;
+	margin-top:10px
+}

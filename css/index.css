@@ -1,0 +1,63 @@
+*{
+	margin:0 auto;
+	font-size:12px;
+	font-family:宋体;
+	padding:0;
+	color:#522a06;
+	text-align:center;
+}
+
+.denglu{
+	float: left;
+}
+.news_announce{
+	width:360px;
+	height:380px;
+	float:left;
+	background:url(../images/wenzikuang2.jpg) no-repeat;
+	padding-left:10px;
+}
+.news_announce ul{
+	width:320px;
+	height:380px;
+	text-align: center;
+	padding-top:20px;
+	padding-right:40px;
+}
+
+
+.news_announce li{
+	height:8px;
+	font-size:20px;
+	color:purple;
+}
+
+
+.neirong{
+	float:left;
+}
+
+.denglu{
+	display: block;
+}
+
+
+.dianhua{
+	display: block;
+	padding-left:0;
+	float:left;
+}
+
+.xinwen{
+	width: 640px;
+	float:right;
+	padding-left: 40px;
+}
+
+.xinwen h1{
+	font-size: 26px;
+}
+.xinwen li{
+	margin-top:15px;
+	font-size: 20px;
+}

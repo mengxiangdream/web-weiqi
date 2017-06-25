@@ -1,0 +1,162 @@
+.menu {
+	float:right;
+}
+.menu ul{
+			list-style: none;
+			padding:15px;
+			margin:0;
+		}
+
+.mianbaoxie{
+	margin-top:20px;
+	margin-left:250px;
+}
+
+
+.menu a{
+			display:block;
+			color:#fff;
+			width:120px;
+			height:40px;
+			background:purple;
+			border:1px solid #fff; 
+			text-align:center;
+			line-height: 35px;
+		}
+
+.menu li ul{
+			width:122px;
+			height:auto;
+			display: none;
+		}
+
+.menu li:hover ul{
+			display: block;
+		}
+
+.huanglongshi{
+	width: 260px;
+	background:url(../images/show_bg.png) no-repeat;
+	margin-top:10px;
+	height:420px;
+}
+
+.huanglongshi img{
+	width: 250px;
+	height: 200px;
+	padding-top:5px;
+}
+
+.person{
+	color:red;
+	font-weight:bold;
+}
+
+.person p{
+	font-size:10px;
+}
+
+.nieweiping{
+	width: 260px;
+	float: right;
+	background:url(../images/show_bg.png) no-repeat;
+	margin-top:10px;
+	height:420px;
+}
+
+.nieweiping img{
+	width: 250px;
+	height: 200px;
+	padding-top:5px;
+}
+
+.guli{
+	width: 260px;
+	background:url(../images/show_bg.png) no-repeat;
+	margin-top:10px;
+	height:420px;
+}
+
+.guli img{
+	width: 250px;
+	height: 200px;
+	padding-top:5px;
+}
+
+.kejie{
+	width: 260px;
+	float:right;
+	background:url(../images/show_bg.png) no-repeat;
+	margin-top:10px;
+	height:420px;
+}
+
+.kejie img{
+	width: 250px;
+	height: 200px;
+	padding-top:5px;
+}
+
+.puyanhuan{
+	width: 260px;
+	background:url(../images/show_bg.png) no-repeat;
+	margin-top:10px;
+	height:420px;
+}
+
+.puyanhuan img{
+	width: 250px;
+	height: 200px;
+	padding-top:5px;
+}
+
+.lishishi{
+	width: 260px;
+	float: right;
+	background:url(../images/show_bg.png) no-repeat;
+	margin-top:10px;
+	height:420px;
+}
+
+.lishishi img{
+	width: 250px;
+	height: 200px;
+	padding-top:5px;
+}
+
+.jingshanyutai{
+	width: 260px;
+	background:url(../images/show_bg.png) no-repeat;
+	margin-top:10px;
+	height:420px;
+}
+
+.jingshanyutai img{
+	width: 250px;
+	height: 200px;
+	padding-top:5px;
+}
+
+.yeshu{
+	margin: 20 0 0 0;
+	padding-top:30px;
+	text-align: center;
+	clear:both;
+	height:40px;
+	width: 800px;
+}
+
+.kuang{
+	height:30px;
+	width:40px;
+	margin:0px 0px 0px 0px;
+	border:1px solid #c9baa5;
+}
+
+.pinglunqu{
+	width:1000px;
+	border:1px #000;
+}
+.pinglunqu textarea{
+	border:1px solid #000;
+}
